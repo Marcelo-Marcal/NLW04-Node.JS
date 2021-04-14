@@ -10,7 +10,7 @@ Projeto construído na Next Level Week #04
     <img src="https://img.shields.io/badge/-Node.js-orange?style=for-the-badge" alt="Node.js">
     <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge" alt="Express">
     <p>    
-        Feito com 💜 by <a href="https://www.linkedin.com/in/gustavo-sorati/" target="_blank">Gustavo Sorati</a>
+        Feito por <a href="https://github.com/Marcelo-Marcal/NLW04-Node.JS" target="_blank">Marcelo Marçal</a>
     </p>
 </div>
 
